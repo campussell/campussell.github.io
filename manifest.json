@@ -1,11 +1,11 @@
 {
-    "name": "campus_sell",
-    "short_name": "campus_sell",
+    "name": "Campus Sell",
+    "short_name": "Campus Sell",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "A new Flutter project.",
+    "description": "The Application That Allows You To Sell Free and Fast.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
