@@ -1,11 +1,11 @@
 {
-    "name": "Campus Sell",
-    "short_name": "Campus Sell",
+    "name": "campus_sell",
+    "short_name": "campus_sell",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
     "theme_color": "#hexcode",
-    "description": "The Application That Allows You To Sell Free and Fast.",
+    "description": "Campus Sell. Where everyone can sell. Sell Fast!",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
