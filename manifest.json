@@ -1,6 +1,6 @@
 {
-    "name": "campus sell",
-    "short_name": "campus sell",
+    "name": "campus_sell",
+    "short_name": "campus_sell",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#hexcode",
